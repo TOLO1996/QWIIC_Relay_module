@@ -28,3 +28,4 @@ Because the connectors compatible with the J10, J9 socket (BM04B-SRSS-TB(LF)(SN)
 ### Outputs
 
 ## Software Example
+## Mechanical Info
